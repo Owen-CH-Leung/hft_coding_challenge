@@ -43,7 +43,7 @@ int main(int argc, char* argv[]) {
     std::string email = "owen.leung2@gmail.com";
     std::string pw = "pwd123";
     std::string name = "Owen-Leung";
-    std::string repo = "myrepo";
+    std::string repo = "https://github.com/Owen-CH-Leung/hft_coding_challenge";
 
     int max_attempt = 5;
 
